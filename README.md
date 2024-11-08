@@ -1,5 +1,6 @@
-Boas vindas ao meu perfil 💙💙
-! [giflegal](https://tenor.com/bIBSH.gif)
+**Boas vindas ao meu perfil 💙💙**
+
+![](https://media1.tenor.com/m/uQJyw8sJs5kAAAAd/emoji-emoji-hello.gif)
 Meu nome é Isabela Mallmann Eede 
 
     Estou estudando na [Alura](https://www.alura.com.br)
